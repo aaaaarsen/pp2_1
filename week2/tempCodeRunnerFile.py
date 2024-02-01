@@ -1,2 +1,3 @@
-print(bool('Hello'))
-print(bool(15))
+fruits = {"apple", "banana", "cherry"}
+fruits.add("orange")
+print(fruits)
